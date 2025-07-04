@@ -10,7 +10,7 @@ My Git# 👋 Hi, I’m Atharv Gupta
 - 👨‍💻 I’m learning web development, WordPress, and Python programming.
 - 🧰 I’ve built demo projects like:
   
-  - A **Calculator** (Python)
+  - A **Calculator(GUI), tic-tac-toe game, alram clock etc.** (Python)
   - Coaching Institute & Education websites using **WordPress + Astra + Elementor**
   - Designed responsive, clean layouts for websites using pre-built templates customized for client needs.
 
