@@ -1,7 +1,7 @@
 # Atharv-code
 My Git# 👋 Hi, I’m Atharv Gupta
 
-🎓 **BCA Student | Beginner Web Developer | Python & WordPress Enthusiast**
+ **Actively Seeking Web Development & Programming Internships | BCA Student | Python & WordPress Enthusiast**
 
 ---
 
